@@ -70,7 +70,7 @@
             // 
             this.btn_submit.BackColor = System.Drawing.Color.Lime;
             this.btn_submit.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_submit.Location = new System.Drawing.Point(380, 161);
+            this.btn_submit.Location = new System.Drawing.Point(375, 161);
             this.btn_submit.Name = "btn_submit";
             this.btn_submit.Size = new System.Drawing.Size(125, 45);
             this.btn_submit.TabIndex = 3;
